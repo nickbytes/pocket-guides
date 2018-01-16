@@ -1,7 +1,10 @@
 export const guides = [
   {
     id: 1,
-    name: "Rough, Intense, Distortion",
+    name: "Distortion in the Cascades",
+    description:
+      "This is a good rough, intense setup. You can hold chords or play single notes to get a very different feel. Modulating the envelope randomly while playing cords makes for a nice unexpected distorted riff.",
+    colors: ["blue", "blue"],
     knobs: [
       {
         id: 1,
